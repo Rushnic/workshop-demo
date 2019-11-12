@@ -9,4 +9,4 @@ bigimg: /img/start.jpg
 
 This is filler just to see what is going on with this website.
 
-![text](/img/How I Play Fighting Games.png)
+(/img/How I Play Fighting Games.png)
